@@ -1,0 +1,128 @@
+@media (max-width:1320px) {
+    .container {
+        max-width: 100%;
+        padding: 0px 10px;
+        box-sizing: border-box;
+    }
+    .bb-left {
+        width: 48%;
+    }
+    .bb-right {
+        width: 48%;
+    }
+}
+@media (max-width:1150px) {
+    .bb-right h1 {
+        font-size: 3rem;
+    }
+    .bb-right p {
+        font-size: 16PX;
+    }
+    .ba-box1 {
+        width: 30%;
+    }
+}
+@media (max-width:1080px) {
+    .ba-box1 {
+        width: 48%;
+    }
+}
+@media (max-width:992px) {
+    header {
+        position: inherit;
+    }
+    .header-left {
+        width: 100%;
+    }
+    .header-l-logo {
+        width: 45%;
+        text-align: right;
+    }
+    .header-l-content {
+        width: 54%;
+        text-align: left;
+    }
+    .text-center {
+        width: 100%;
+        text-align: left;
+        margin-bottom: 10px;
+    }
+    .header-right {
+        position: absolute;
+        top: 58px;
+        right: 30px;
+    }
+    .top-about h1 {
+        font-size: 36px;
+    }
+    .top-about p {
+        font-size: 21px;
+    }
+    .bt-right h2 {
+        font-size: 25px;
+    }
+    .bt-right p {
+        font-size: 17px;
+    }
+}
+@media (max-width:768px) {
+    .bb-left {
+        width: 100%;
+    }
+    iframe {
+        width: 100%;
+    }
+    .bb-right {
+        width: 100%;
+    }
+    .ba-box1 {
+        width: 100%;
+        margin-left: 0;
+    }
+    .pt-bottom-box {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+    .team-top h1 {
+        font-size: 35px;
+    }
+    .our-team {
+        width: 48%;
+        margin-right: 1%;
+    }
+    .b-fd-box {
+        width: 100%;
+        margin-bottom: 30px;
+    }
+    .bt-left {
+        width: 100%;
+    }
+    .bt-right {
+        width: 100%;
+    }
+    .wd {
+        width: 42%;
+    }
+    .bt-right form button {
+        width: 50%;
+        border-radius: 3px;
+    }
+    
+}
+@media (max-width:576px) {
+    .whsn-b-left {
+        width: 100%;
+        margin-bottom: 15px;
+    }
+    .whsn-b-left img {
+        width: 100%;
+        margin-bottom: 8px;
+    }
+    .whsn-b-right {
+        width: 100%;
+    }
+    .whsn-b-right img {
+        width: 100%;
+        margin-bottom: 8px;
+    }
+}
